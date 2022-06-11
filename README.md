@@ -3,12 +3,9 @@ A paid job to write the solutions of a Mathematics text book usign microsoft wor
 
 I was in charge of solving the text book from the  first module to the last, 
 they requested my expactise as they wanted to add the correct answers of all workings 
-to the end of the textbook, to help class take easier corrections or as a way for 
+to the end of the textbook, to help the class take easier corrections or as a way for 
 student to confirm if their workings and answers are correct
 
-## My Role
-i was in charge of solving the exercises and making sure the answers i got were correct
-combining the exercises and arrange them well, how it should look on the text book was done by someone else
 
 ## QUALIFICATIONS
 > 7 years using microsoft word
